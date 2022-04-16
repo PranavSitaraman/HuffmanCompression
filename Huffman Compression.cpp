@@ -237,7 +237,7 @@ void decompress(string path)
     }
     decompressed.close();
 }
-void huffmancompression()
+int main()
 {
     string type;
     string pathin;
