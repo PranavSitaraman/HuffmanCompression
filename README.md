@@ -1,1 +1,1 @@
-# HuffmanCompression
+# Huffman Compression Implementation in C++
